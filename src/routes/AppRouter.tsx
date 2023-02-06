@@ -10,7 +10,7 @@ import Home from "./Home";
 
 import styles from "./AppRouter.module.scss";
 import Insight from "./Insight";
-import { Dashboard } from "@gooddata/sdk-ui-dashboard";
+import Dashboard from "./Dashboard";
 import SimpleDashboard from "./SimpleDashboard";
 
 // Uncomment these lines if you want to redirect unauthorized users to login form
